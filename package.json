@@ -1,0 +1,27 @@
+{
+  "name": "communication_history4sendermixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS library with history usage mixins for a Sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/history4sendermixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "history",
+    "sender",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/history4sendermixin/issues"
+  },
+  "homepage": "https://github.com/communication-libs/history4sendermixin#readme"
+}
